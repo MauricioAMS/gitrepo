@@ -9,7 +9,9 @@ END_VAR
       <ST><![CDATA[// programa en 0//
 
 
-//segundo cambio en el POU//]]></ST>
+//segundo cambio en el POU//
+
+// cambio numero 3// ]]></ST>
     </Implementation>
   </POU>
 </TcPlcObject>
