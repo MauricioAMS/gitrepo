@@ -6,7 +6,10 @@ VAR
 END_VAR
 ]]></Declaration>
     <Implementation>
-      <ST><![CDATA[// programa en 0//]]></ST>
+      <ST><![CDATA[// programa en 0//
+
+
+//segundo cambio en el POU//]]></ST>
     </Implementation>
   </POU>
 </TcPlcObject>
