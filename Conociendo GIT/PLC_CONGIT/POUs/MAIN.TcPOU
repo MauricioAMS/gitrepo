@@ -11,7 +11,10 @@ END_VAR
 
 //segundo cambio en el POU//
 
-// cambio numero 3// ]]></ST>
+// cambio numero 3// 
+
+
+// cambio numero 4//]]></ST>
     </Implementation>
   </POU>
 </TcPlcObject>
